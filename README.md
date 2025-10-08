@@ -29,7 +29,8 @@ Create a new pluggable database (PDB) inside the Oracle 21c container database a
    );
    ```
    #### screenshot:
-   ![alt text](<creating pdb.PNG>)
+   <img width="859" height="410" alt="creating pdb" src="https://github.com/user-attachments/assets/992e6711-09a6-404f-8f3e-94becc88b233" />
+
 
 3. Opened the new PDB:
    ```sql
