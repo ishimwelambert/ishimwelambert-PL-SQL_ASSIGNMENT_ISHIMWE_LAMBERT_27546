@@ -69,7 +69,8 @@ Example: `la_to_delete_pdb_27546`
    SHOW PDBS;
    ```
 ### screenshot:
-![alt text](<CREATE AND DELETE PDB.PNG>)
+<img width="886" height="511" alt="CREATE AND DELETE PDB" src="https://github.com/user-attachments/assets/8e6f2130-7e36-4f35-90df-f4cecd519bfd" />
+
 3. Closed the PDB:
    ```sql
    ALTER PLUGGABLE DATABASE la_to_delete_pdb_27546 CLOSE IMMEDIATE;
@@ -80,7 +81,8 @@ Example: `la_to_delete_pdb_27546`
    DROP PLUGGABLE DATABASE la_to_delete_pdb_27546 INCLUDING DATAFILES;
    ```
 ### screenshot:
-![alt text](<creat and delete pdb 2.PNG>)
+<img width="817" height="418" alt="creat and delete pdb 2" src="https://github.com/user-attachments/assets/61cae486-3f7b-4f5e-88d9-187ad0933782" />
+
 ### **Result**
 ✅ PDB `la_to_delete_pdb_27546` successfully created and deleted.
 
@@ -111,7 +113,8 @@ Configure and access **Oracle Enterprise Manager Database Express (OEM)** to mon
 
 4. Confirmed the dashboard loaded successfully, showing connection to the pluggable database.
 ### screenshot:
-![alt text](<Oracle Enterprise Manager.PNG>)
+<img width="1353" height="618" alt="Oracle Enterprise Manager" src="https://github.com/user-attachments/assets/66189089-464d-469f-9aa6-45a13e3ad233" />
+
 
 ### **Result**
  Oracle Enterprise Manager configured successfully and connected to `LA_PDB_27546`.
