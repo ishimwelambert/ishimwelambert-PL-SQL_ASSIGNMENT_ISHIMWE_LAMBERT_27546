@@ -2,7 +2,7 @@
 # Oracle Database Assignment Report  
 **Student Name:** Ishimwe Lambert  
 **Student ID:** 27546  
-**Course:** pl&sql
+**Course:** pl&sql  
 **Date:** October 8, 2025  
 
 ---
@@ -130,5 +130,5 @@ This demonstrates strong understanding of **Oracle 21c multitenant architecture*
 
 ### **Prepared by**
 **Name:** Ishimwe Lambert  
-**Date:** October 8, 2025  
+**Date:** October 8, 2025    
 **Subject:** pl&sql
